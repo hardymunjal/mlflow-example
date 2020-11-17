@@ -1,0 +1,15 @@
+artifact_uri: file://root/hardik/mlflow_demo/model_data/0/98e4e52b039646a3aae466835d04cdaa/artifacts
+end_time: 1605616564720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 98e4e52b039646a3aae466835d04cdaa
+run_uuid: 98e4e52b039646a3aae466835d04cdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605616563847
+status: 3
+tags: []
+user_id: root
